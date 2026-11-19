@@ -1,0 +1,6 @@
+.git
+.DS_Store
+unifund.db
+tests/
+__pycache__/
+*.pyc

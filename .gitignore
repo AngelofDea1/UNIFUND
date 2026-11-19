@@ -1,0 +1,8 @@
+.DS_Store
+*.pyc
+__pycache__/
+.system_generated/
+.env
+.env.*
+!.env.example
+unifund.db
